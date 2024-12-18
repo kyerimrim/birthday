@@ -7,8 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>안녕</h3>
-<p>testtttestset</p>
-<p>예림예림</p>
+<h1><a href="./YerimServlet">예림</a></h1>
+<h1><a href="./CyServlet">찬열</a></h1>
+<h1><a href="./">아림</a></h1>
+
 </body>
 </html>

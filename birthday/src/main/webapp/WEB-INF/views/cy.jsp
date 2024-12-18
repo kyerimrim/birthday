@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<a href="./">메인으로</a>
+	<h1>찬열페이지</h1>
 </body>
 </html>
